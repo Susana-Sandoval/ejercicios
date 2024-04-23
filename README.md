@@ -1,3 +1,3 @@
 # Ejercicios
-Ejercicios HTML EN sUBLIME TEXT
+Ejercicios HTML EN SUBLIME TEXT
 
