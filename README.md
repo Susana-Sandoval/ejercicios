@@ -1,5 +1,6 @@
 # Ejercicios
-Ejercicios HTML EN SUBLIME TEXT
+Ejercicios de práctica en HTML 
+EN SUBLIME TEXT
 
 
 
